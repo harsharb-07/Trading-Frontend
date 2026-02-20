@@ -7,7 +7,7 @@ A comprehensive trading dashboard built with React + Vite, featuring real-time m
 ### Option 1: One-Click Run (Recommended)
 You can run both the frontend and backend simultaneously using the provided batch script.
 
-1. Navigate to the root folder: `d:\fintech_deeptech`
+1. Navigate to the root folder: 
 2. Double-click on **`run-trading-app.bat`**
 3. This will launch:
    - **Backend API** on `http://localhost:8080`
